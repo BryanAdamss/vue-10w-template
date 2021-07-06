@@ -36,7 +36,7 @@
   "dependencies": {
     "@bryanadamss/drawing-board": "^1.5.8",
     "@bryanadamss/num2chn": "^1.1.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "better-scroll": "^1.13.4",
     "core-js": "^3.6.5",
     "driver.js": "^0.9.8",
